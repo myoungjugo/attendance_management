@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/flask,python,venv,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=flask,python,venv,windows
 
+routes/
+
 ### Flask ###
 instance/*
 !instance/.gitignore
@@ -298,5 +300,3 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.top
-
-routes/
